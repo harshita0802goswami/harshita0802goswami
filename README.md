@@ -18,5 +18,5 @@
 <div align="center">
   <img title="Windows" alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
   <img title="Processor" alt="CPU" src="https://img.shields.io/badge/Intel-i5--8565u-0071C5?style=for-the-badge&logo=intel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/nvidia-mx%20250-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white"/>
