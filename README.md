@@ -1,6 +1,9 @@
 <h1 align="center">Hi, I'm Harshita Goswami 🙋‍♂️ </h1>
 <h3 align="center">I am a Full Stack Web Developer, passionate about building digital products that improve the everyday experience for people.</h3>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=harshita0802goswami&show_icons=true&hide_border=true&theme=tokyonight" alt="harshita0802goswami" />  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshita0802goswami&hide_border=true&theme=tokyonight" alt="harshita0802goswami" /> </p>
+- 🌱 I’m currently learning Web Development and other programming languages
+
+- 📫 How to reach me **goswamiharshita0801@gmail.com**
 <!-- <p align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=harshita0802goswami&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=false" alt="harshita0802goswami" /> </p> -->
 <br>
 <h1 align="center">Technologies I Know ⚛</h1>
