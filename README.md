@@ -2,7 +2,7 @@
 <h3 align="center">I am a Full Stack Web Developer, passionate about building digital products that improve the everyday experience for people.</h3>
 
 - 🌱 I’m currently learning Web Development and other programming languages
-- 🔥 I use to write code on { <a target="_blank" href="https://leetcode.com/harshitagoswamii/"> Leetcode </a> }
+- 🔥 I write code on { <a target="_blank" href="https://leetcode.com/harshitagoswamii/"> Leetcode </a> }
 - 📫 How to reach me **goswamiharshita0801@gmail.com**
 
 <h1 align="center">Technologies I Know ⚛</h1>
