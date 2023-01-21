@@ -10,8 +10,8 @@
   <img title="HTML-5" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img title="CSS-3" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img title="JavaScript" alt="Javascipt" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img title="Bootstrap" alt="bootstrap" width="26px" src="https://img.shields.io/badge/Bootstrap-F7DF1E?style=for-the-badge&logo=bootstrap&logoColor=black" />
-  <img title="Material UI" alt="Material-ui" width="26px" src="https://img.shields.io/badge/MaterialUI-20232A?style=for-the-badge&logo=material-ui&logoColor=61DAFB" />
+  <img title="Bootstrap" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-F7DF1E?style=for-the-badge&logo=bootstrap&logoColor=black" />
+  <img title="Material UI" alt="Material-ui" src="https://img.shields.io/badge/MaterialUI-20232A?style=for-the-badge&logo=material-ui&logoColor=61DAFB" />
   <img title="React.Js" alt="React.Js" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img title="Express" alt="Express" src="https://img.shields.io/badge/Express-20232A?style=for-the-badge&logo=express&logoColor=61DAFB" />
   <img title="MongoDB" alt="Express" src="https://img.shields.io/badge/Mongo-20232A?style=for-the-badge&logo=mongo&logoColor=61DAFB" />
