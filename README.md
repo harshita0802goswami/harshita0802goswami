@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning Web Development and other programming languages
 - 🔥 I use to write code on { <a target="_blank" href="https://leetcode.com/harshitagoswamii/"> Leetcode </a> }
 - 📫 How to reach me **goswamiharshita0801@gmail.com**
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=harshita0802goswami&show_icons=true&hide_border=true&theme=tokyonight" alt="harshita0802goswami" />  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshita0802goswami&hide_border=true&theme=tokyonight" alt="harshita0802goswami" /> </p>
 
 <h1 align="center">Technologies I Know ⚛</h1>
 <div align="center">
@@ -21,8 +20,10 @@
   <img title="IntelliJ" alt="IntelliJ" src="https://img.shields.io/badge/IntelliJ-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
   
   <img title="Java" alt="Java" src = "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  
 </div>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=harshita0802goswami&show_icons=true&hide_border=true&theme=tokyonight" alt="harshita0802goswami" />  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshita0802goswami&hide_border=true&theme=tokyonight" alt="harshita0802goswami" /> </p>
+
 
 <!-- <p align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=harshita0802goswami&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=false" alt="harshita0802goswami" /> </p> -->
 <br>
