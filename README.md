@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Harshita Goswami 🙋‍♂️ </h1>
-<h3 align="center">I am a Full Stack Web Developer, passionate about building digital products that improve the everyday experience for people.</h3>
+<h3 align="center">I'm a full stack developer and passionate about creating frontend products with great user experiences.</h3>
 
 - 🌱 I’m currently learning Web Development and other programming languages
 - 🔥 I write code on { <a target="_blank" href="https://leetcode.com/harshitagoswamii/"> Leetcode </a> }
