@@ -12,6 +12,7 @@
   <img title="JavaScript" alt="Javascipt" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img title="Bootstrap" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-F7DF1E?style=for-the-badge&logo=bootstrap&logoColor=black" />
   <img title="Material UI" alt="Material-ui" src="https://img.shields.io/badge/MaterialUI-20232A?style=for-the-badge&logo=material-ui&logoColor=61DAFB" />
+  <img title="Node Js" alt="Node.js" src="https://img.shields.io/badge/Node-20232A?style=for-the-badge&logo=node.js&logoColor=61DAFB" />
   <img title="React.Js" alt="React.Js" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img title="Express" alt="Express" src="https://img.shields.io/badge/Express-20232A?style=for-the-badge&logo=express&logoColor=61DAFB" />
   <img title="MongoDB" alt="Express" src="https://img.shields.io/badge/Mongo-20232A?style=for-the-badge&logo=mongo&logoColor=61DAFB" />
