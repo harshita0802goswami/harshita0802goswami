@@ -5,7 +5,7 @@
 - 🔥 I write code on { <a target="_blank" href="https://leetcode.com/harshitagoswamii/"> Leetcode </a> }
 - 📫 How to reach me **goswamiharshita0801@gmail.com** & <a target="_blank" href="https://www.linkedin.com/in/harshita-goswami-1548651a9/">**LinkedIn**</a>
 - 📃 <a target="_blank" href="https://drive.google.com/file/d/1AWdoPTPJrXSRHlWh4hKI37nhTFYuzv_S/view?usp=share_link">Resume</a>
-- 📃 <a target="_blank" href="https://portfoliohg.netlify.app">Portfolio</a>
+- 📃 <a target="_blank" href="https://harshita-goswami-portfolio.netlify.app/">Portfolio</a>
 
 
 <h1 align="center">Technologies I Know ⚛</h1>
